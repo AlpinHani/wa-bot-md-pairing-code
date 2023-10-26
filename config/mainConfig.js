@@ -50,7 +50,7 @@ module.exports = {
     },
     caliph: {
       api_url: 'https://api.caliph.biz.id', // Register here: https://api.caliph.biz.id/#sign-up
-      api_key: 'Your_API_key'
+      api_key: 'NmKIJ9rw'
     }
   },
   bot: {
