@@ -42,7 +42,7 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
-  mongodb_uri: 'Your_MongoDb_URI', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://dinahani913H8p9heWbA3YvWKKj@databaseuserbot.ifjduu9.mongodb.net/?retryWrites=true&w=majority', // Register here: https://mongodb.com/#sign-up
   api: {
     dani: {
       api_url: 'https://daniapi.biz.id',
